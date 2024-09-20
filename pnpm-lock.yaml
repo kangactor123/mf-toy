@@ -7,7 +7,7 @@ settings:
 importers:
 
   .:
-    dependencies:
+    devDependencies:
       turbo:
         specifier: ^2.1.2
         version: 2.1.2
@@ -17,6 +17,9 @@ importers:
 
   apps/shell:
     dependencies:
+      '@mf/shell-router':
+        specifier: workspace:*
+        version: link:../../packages/shell-router
       react:
         specifier: ^18.2.0
         version: 18.3.1

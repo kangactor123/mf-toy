@@ -1,11 +1,12 @@
 import React from "react";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Layout from "./components/layout";
 
 const browerRouter = createBrowserRouter([
   {
     path: "/",
-    element: <div>root</div>,
+    element: <Layout />,
     children: [],
   },
 ]);
