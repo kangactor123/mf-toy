@@ -64,6 +64,15 @@ module.exports = (_, argv) => ({
           loader: "babel-loader",
         },
       },
+      {
+        test: /\.(png|jpe?g)$/,
+        use: {
+          loader: "file-loader",
+          options: {
+            name: "[path][name].[ext]",
+          },
+        },
+      },
     ],
   },
 
@@ -84,6 +93,9 @@ module.exports = (_, argv) => ({
           requiredVersion: deps["react-dom"],
         },
         "@mf-toy/shell-router": {
+          singleton: true,
+        },
+        "@mf-toy/ui-kit": {
           singleton: true,
         },
       },
