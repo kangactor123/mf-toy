@@ -1,13 +1,28 @@
 import React from "react";
 
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import {
+  createBrowserRouter,
+  Navigate,
+  RouterProvider,
+} from "react-router-dom";
 import Layout from "./components/layout";
+import { appFleaMarketBasename } from "./constants/prefix";
+import AppFleaMarket from "./components/app-fleamarket";
 
 const browserRouter = createBrowserRouter([
   {
     path: "/",
     element: <Layout />,
-    children: [],
+    children: [
+      {
+        index: true,
+        element: <Navigate to={appFleaMarketBasename} />,
+      },
+      {
+        path: `${appFleaMarketBasename}/*`,
+        element: <AppFleaMarket />,
+      },
+    ],
   },
 ]);
 
