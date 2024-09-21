@@ -188,3 +188,5 @@
 2024-09-21T03:54:02.942235Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf/shell"), path: AnchoredSystemPathBuf("apps/shell") }}))
 2024-09-21T03:55:00.942676Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/index.html")}
 2024-09-21T03:55:00.942685Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-21T03:56:36.443189Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/package.json")}
+2024-09-21T03:56:36.443202Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
