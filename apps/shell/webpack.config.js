@@ -83,10 +83,7 @@ module.exports = (_, argv) => ({
           singleton: true,
           requiredVersion: deps["react-dom"],
         },
-        "@career-up/ui-kit": {
-          singleton: true,
-        },
-        "@career-up/shell-router": {
+        "@mf-toy/shell-router": {
           singleton: true,
         },
       },

@@ -3,7 +3,7 @@ import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Layout from "./components/layout";
 
-const browerRouter = createBrowserRouter([
+const browserRouter = createBrowserRouter([
   {
     path: "/",
     element: <Layout />,
@@ -12,7 +12,7 @@ const browerRouter = createBrowserRouter([
 ]);
 
 const Router = () => {
-  return <RouterProvider router={browerRouter} />;
+  return <RouterProvider router={browserRouter} />;
 };
 
 export default Router;
