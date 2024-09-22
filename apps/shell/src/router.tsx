@@ -6,8 +6,12 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Layout from "./components/layout";
-import { appFleaMarketBasename } from "./constants/prefix";
+import {
+  appFleaMarketBasename,
+  appNearbyStoresBasename,
+} from "./constants/prefix";
 import AppFleaMarket from "./components/app-fleamarket";
+import AppNearbyStores from "./components/app-nearby-stores";
 
 const browserRouter = createBrowserRouter([
   {
@@ -21,6 +25,10 @@ const browserRouter = createBrowserRouter([
       {
         path: `${appFleaMarketBasename}/*`,
         element: <AppFleaMarket />,
+      },
+      {
+        path: `${appNearbyStoresBasename}/*`,
+        element: <AppNearbyStores />,
       },
     ],
   },
