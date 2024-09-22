@@ -9,3 +9,14 @@ body {
   padding: 0;
   background-color: #f4f2ee;
 }
+
+a {
+  text-decoration: none;
+  outline: none;
+}
+
+ a:hover,
+a:active {
+  text-decoration: none;
+  background-color: #f59000;
+}

@@ -1,0 +1,330 @@
+2024-09-22T04:03:50.855191Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/1.cookie"), AnchoredSystemPathBuf(".turbo/cookies/.turbo-cookie")}
+2024-09-22T04:03:50.855214Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:07:08.352336Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:07:08.352356Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:07:13.751951Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:07:13.751959Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:09:48.549779Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:09:48.549790Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:10:14.249199Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features")}
+2024-09-22T04:10:14.249229Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:10:14.249253Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:10:25.449096Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:10:25.449114Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:10:45.548305Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:10:45.548314Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:10:59.948926Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:10:59.948937Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:11:31.748007Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:11:31.748025Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:12:03.047146Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:12:03.047164Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:12:23.246132Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:12:23.246155Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:12:56.348464Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:12:56.348473Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:14:03.949745Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:14:03.949754Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:14:15.650657Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:14:15.650666Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:14:19.749951Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:14:19.749960Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:14:42.949091Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:14:42.949104Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:14:46.249759Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:14:46.249770Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:14:58.549996Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:14:58.550005Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:15:02.853283Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:15:02.853301Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:15:14.849122Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:15:14.849132Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:15:50.647849Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:15:50.647858Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:16:15.048947Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:16:15.048955Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:16:16.656000Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:16:16.656477Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:16:29.747186Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:16:29.747195Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:16:44.446913Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:16:44.446935Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:17:27.147019Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:17:27.147027Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:18:32.946175Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:18:32.946189Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:18:42.745693Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:18:42.745706Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:18:56.245951Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:18:56.245964Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:18:56.646515Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:18:56.646527Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:18:58.746001Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:18:58.746010Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:19:15.745318Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:19:15.745329Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:19:21.445326Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:19:21.445343Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:19:52.345024Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:19:52.345034Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:19:54.945152Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:19:54.945162Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:21:17.144008Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:21:17.144026Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:22:11.542107Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/assets")}
+2024-09-22T04:22:11.542117Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:22:11.570293Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:22:21.943829Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/assets/images")}
+2024-09-22T04:22:21.943846Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:22:21.943875Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:22:26.343250Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/assets/images/products")}
+2024-09-22T04:22:26.343268Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:22:26.343287Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:22:31.842764Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/assets/images/products/product-2.png"), AnchoredSystemPathBuf("apps/fleamarket/src/assets/images/products/product-1.png"), AnchoredSystemPathBuf("apps/fleamarket/src/assets/images/products/product-3.png")}
+2024-09-22T04:22:31.842774Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:22:31.942823Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/assets/images/products/product-7.png"), AnchoredSystemPathBuf("apps/fleamarket/src/assets/images/products/product-4.png"), AnchoredSystemPathBuf("apps/fleamarket/src/assets/images/products/product-5.png"), AnchoredSystemPathBuf("apps/fleamarket/src/assets/images/products/product-6.png")}
+2024-09-22T04:22:31.942838Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:22:31.942860Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:22:35.043123Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:22:35.043131Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:22:50.142525Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:22:50.142534Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:23:00.841445Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/types")}
+2024-09-22T04:23:00.841456Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:23:00.847809Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:23:12.542367Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/types/images.d.ts")}
+2024-09-22T04:23:12.542390Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:23:28.542435Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/tsconfig.json")}
+2024-09-22T04:23:28.542447Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:24:02.241723Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:24:02.241738Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:24:42.540484Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:24:42.540495Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:24:45.641431Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:24:45.641441Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:25:08.940795Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:25:08.940810Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:26:05.439833Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:26:05.439842Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:26:13.139348Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:26:13.139357Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:26:59.239427Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-lock.yaml.1928922666"), AnchoredSystemPathBuf("pnpm-lock.yaml")}
+2024-09-22T04:26:59.239438Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:26:59.339153Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/package.json"), AnchoredSystemPathBuf("apps/fleamarket/package.json.1084392710")}
+2024-09-22T04:26:59.339262Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:27:07.139607Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/package.json.1896091680"), AnchoredSystemPathBuf("apps/fleamarket/package.json"), AnchoredSystemPathBuf("pnpm-lock.yaml"), AnchoredSystemPathBuf("pnpm-lock.yaml.3931798420")}
+2024-09-22T04:27:07.139618Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:27:17.339435Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/webpack.config.js")}
+2024-09-22T04:27:17.339449Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:27:18.139590Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/webpack.config.js")}
+2024-09-22T04:27:18.139616Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:27:18.139652Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:27:22.539268Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/2.cookie")}
+2024-09-22T04:27:22.539276Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:27:58.838044Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:27:58.838052Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:28:01.537970Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:28:01.537979Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:28:01.537994Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:28:04.438398Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:28:04.438408Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:28:09.538002Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:28:09.538013Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:28:11.437574Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:28:11.437583Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:28:15.338204Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:28:15.338214Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:28:56.736804Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/layout/index.tsx")}
+2024-09-22T04:28:56.736824Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:29:02.737877Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/layout/style.ts")}
+2024-09-22T04:29:02.737888Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:29:58.235634Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/layout/style.ts")}
+2024-09-22T04:29:58.235643Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:29:58.936222Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/layout/style.ts")}
+2024-09-22T04:29:58.936240Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:30:15.136068Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/layout/style.ts")}
+2024-09-22T04:30:15.136076Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:31:20.035968Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/layout/style.ts")}
+2024-09-22T04:31:20.035979Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:31:20.635987Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/layout/style.ts")}
+2024-09-22T04:31:20.635997Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:31:20.636012Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:31:57.034817Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:31:57.034826Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:32:01.734127Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:32:01.734137Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:32:45.034394Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:32:45.034404Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:32:56.334415Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:32:56.334424Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:33:00.234575Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:33:00.234585Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:33:02.334237Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:33:02.334246Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:33:19.333985Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:33:19.333995Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:33:40.533708Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/common")}
+2024-09-22T04:33:40.533729Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:33:40.533756Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:33:44.334056Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/common/layout.tsx")}
+2024-09-22T04:33:44.334073Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:33:48.432432Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/common/layout.tsx")}
+2024-09-22T04:33:48.432442Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:33:54.035654Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/common/layout.style.ts")}
+2024-09-22T04:33:54.035664Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:33:57.333691Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/common/layout.style.ts")}
+2024-09-22T04:33:57.333702Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:34:03.033202Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/common/layout.tsx")}
+2024-09-22T04:34:03.033212Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:34:06.032661Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/layout")}
+2024-09-22T04:34:06.032676Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:34:11.533096Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:34:11.533105Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:34:50.331887Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/mocks")}
+2024-09-22T04:34:50.331899Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:34:50.358924Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:35:00.332518Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/mocks/products.ts")}
+2024-09-22T04:35:00.332527Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:35:11.331329Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/mocks/products.ts")}
+2024-09-22T04:35:11.331444Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:35:21.631800Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/mocks/products.ts")}
+2024-09-22T04:35:21.631809Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:35:32.031172Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/types/product.ts")}
+2024-09-22T04:35:32.031182Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:35:44.632076Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/types/product.ts")}
+2024-09-22T04:35:44.632091Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:35:51.031744Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/index.tsx")}
+2024-09-22T04:35:51.031754Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:35:53.931839Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/mocks/products.ts")}
+2024-09-22T04:35:53.931848Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:36:12.431868Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/mocks/products.ts")}
+2024-09-22T04:36:12.431878Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:36:48.735595Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home/style.ts")}
+2024-09-22T04:36:48.736590Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:37:04.331142Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/home"), AnchoredSystemPathBuf("apps/fleamarket/src/pages/list")}
+2024-09-22T04:37:04.331152Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:37:07.530797Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:37:07.530807Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:37:15.330213Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/index.tsx")}
+2024-09-22T04:37:15.330222Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:37:36.529831Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/style.ts")}
+2024-09-22T04:37:36.529845Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:37:45.029658Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/index.tsx")}
+2024-09-22T04:37:45.029674Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:37:48.229783Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/index.tsx")}
+2024-09-22T04:37:48.229802Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:37:49.329933Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/index.tsx")}
+2024-09-22T04:37:49.329951Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:37:54.729989Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/index.tsx")}
+2024-09-22T04:37:54.729999Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:38:44.629016Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/index.tsx")}
+2024-09-22T04:38:44.629025Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:38:49.929256Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/index.tsx")}
+2024-09-22T04:38:49.929266Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:39:28.628165Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:39:28.628174Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:41:21.677652Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui-kit/src/global.css")}
+2024-09-22T04:41:21.677665Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/ui-kit"), path: AnchoredSystemPathBuf("packages/ui-kit") }}))
+2024-09-22T04:41:26.078498Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui-kit/src/global.css")}
+2024-09-22T04:41:26.078519Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/ui-kit"), path: AnchoredSystemPathBuf("packages/ui-kit") }}))
+2024-09-22T04:41:29.777930Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui-kit/src/global.css")}
+2024-09-22T04:41:29.777953Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/ui-kit"), path: AnchoredSystemPathBuf("packages/ui-kit") }}))
+2024-09-22T04:41:35.777610Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/6.cookie"), AnchoredSystemPathBuf(".turbo/cookies/7.cookie"), AnchoredSystemPathBuf("packages/shell-router/.turbo"), AnchoredSystemPathBuf(".turbo/cookies/5.cookie"), AnchoredSystemPathBuf(".turbo/cookies/4.cookie"), AnchoredSystemPathBuf(".turbo/cookies/3.cookie")}
+2024-09-22T04:41:35.777624Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/shell-router"), path: AnchoredSystemPathBuf("packages/shell-router") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:41:37.177971Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui-kit/vite.config.ts.timestamp-1726980097095-e461d9960083.mjs")}
+2024-09-22T04:41:37.177981Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/ui-kit"), path: AnchoredSystemPathBuf("packages/ui-kit") }}))
+2024-09-22T04:41:37.878103Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui-kit/vite.config.ts.timestamp-1726980097095-e461d9960083.mjs")}
+2024-09-22T04:41:37.878113Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/ui-kit"), path: AnchoredSystemPathBuf("packages/ui-kit") }}))
+2024-09-22T04:41:38.277696Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/8.cookie"), AnchoredSystemPathBuf(".turbo/cache/17bf5a59a5830556.tar.zst"), AnchoredSystemPathBuf(".turbo/cache/17bf5a59a5830556-meta.json")}
+2024-09-22T04:41:38.277705Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:41:38.777356Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cache/2cff03b82b7c435e-meta.json"), AnchoredSystemPathBuf(".turbo/cache/2cff03b82b7c435e.tar.zst"), AnchoredSystemPathBuf(".turbo/cookies/9.cookie"), AnchoredSystemPathBuf(".turbo/cookies/10.cookie")}
+2024-09-22T04:41:38.777367Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:41:40.878004Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/11.cookie"), AnchoredSystemPathBuf(".turbo/cache/f387f81b2a68accc.tar.zst"), AnchoredSystemPathBuf(".turbo/cache/f387f81b2a68accc-meta.json")}
+2024-09-22T04:41:40.878014Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:41:45.278522Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/12.cookie")}
+2024-09-22T04:41:45.278530Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:42:05.677630Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui-kit/src/global.css")}
+2024-09-22T04:42:05.677645Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/ui-kit"), path: AnchoredSystemPathBuf("packages/ui-kit") }}))
+2024-09-22T04:42:13.676597Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/13.cookie")}
+2024-09-22T04:42:13.676607Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:42:13.777664Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/14.cookie"), AnchoredSystemPathBuf(".turbo/cookies/15.cookie"), AnchoredSystemPathBuf(".turbo/cookies/17.cookie"), AnchoredSystemPathBuf("apps/fleamarket/.turbo"), AnchoredSystemPathBuf(".turbo/cookies/16.cookie")}
+2024-09-22T04:42:13.777674Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:42:13.777696Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:42:14.577295Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui-kit/vite.config.ts.timestamp-1726980134493-36ca0820cee4e.mjs")}
+2024-09-22T04:42:14.577308Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/ui-kit"), path: AnchoredSystemPathBuf("packages/ui-kit") }}))
+2024-09-22T04:42:15.078277Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui-kit/vite.config.ts.timestamp-1726980134493-36ca0820cee4e.mjs")}
+2024-09-22T04:42:15.078286Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/ui-kit"), path: AnchoredSystemPathBuf("packages/ui-kit") }}))
+2024-09-22T04:42:15.777319Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cache/ee1565a47cfe43a7-meta.json"), AnchoredSystemPathBuf(".turbo/cache/ee1565a47cfe43a7.tar.zst"), AnchoredSystemPathBuf(".turbo/cookies/18.cookie")}
+2024-09-22T04:42:15.777327Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:42:15.877721Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/19.cookie")}
+2024-09-22T04:42:15.877730Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:42:18.178316Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cache/c07698e8fa813478.tar.zst"), AnchoredSystemPathBuf(".turbo/cache/c07698e8fa813478-meta.json"), AnchoredSystemPathBuf(".turbo/cookies/20.cookie")}
+2024-09-22T04:42:18.178332Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:42:21.477811Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/21.cookie")}
+2024-09-22T04:42:21.477819Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:42:36.977841Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:42:36.977849Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:42:38.178353Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:42:38.178363Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:43:53.377757Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/index.tsx")}
+2024-09-22T04:43:53.377767Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:44:03.077872Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/index.tsx")}
+2024-09-22T04:44:03.077882Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:44:06.277727Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/index.tsx")}
+2024-09-22T04:44:06.277736Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:45:01.477324Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:45:01.477341Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:45:12.178765Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/features/product-card.tsx")}
+2024-09-22T04:45:12.178776Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:45:28.777990Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:45:28.778007Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:45:41.578318Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:45:41.578330Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:45:52.476738Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:45:52.476748Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:45:59.987792Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:45:59.987848Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:48:13.678450Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/index.html")}
+2024-09-22T04:48:13.678469Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:48:13.678497Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:48:48.477730Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:48:48.477740Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:48:54.978077Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:48:54.978086Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:49:37.777428Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:49:37.777441Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:49:38.278572Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:49:38.278583Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:49:38.278605Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:49:54.078016Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/common/layout.tsx")}
+2024-09-22T04:49:54.078026Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:49:56.677951Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/components/common/layout.tsx")}
+2024-09-22T04:49:56.677971Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:50:00.878167Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:50:00.878176Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:50:03.078767Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:50:03.078776Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:50:11.778210Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/22.cookie")}
+2024-09-22T04:50:11.778221Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-22T04:50:30.978081Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/detail")}
+2024-09-22T04:50:30.978089Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:50:30.978103Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:50:34.680014Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/detail/index.tsx")}
+2024-09-22T04:50:34.680024Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:50:48.177368Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/detail/index.tsx")}
+2024-09-22T04:50:48.177388Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:50:51.677599Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/detail/index.tsx")}
+2024-09-22T04:50:51.677610Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:51:30.376969Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/pages/list/detail/index.tsx")}
+2024-09-22T04:51:30.376988Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:51:47.277724Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:51:47.277734Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:51:53.678639Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:51:53.678650Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:52:16.877652Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:52:16.877664Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:52:37.276968Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:52:37.276978Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
+2024-09-22T04:52:37.276994Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-22T04:53:00.878160Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/fleamarket/src/routes.tsx")}
+2024-09-22T04:53:00.878170Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps/fleamarket") }}))
