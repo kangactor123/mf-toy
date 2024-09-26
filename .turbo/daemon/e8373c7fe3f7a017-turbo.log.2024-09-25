@@ -1,0 +1,65 @@
+2024-09-25T23:50:18.097982Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\1.cookie"), AnchoredSystemPathBuf(".turbo\\cookies")}
+2024-09-25T23:50:18.098393Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-25T23:50:19.393647Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo"), AnchoredSystemPathBuf(".turbo\\daemon")}
+2024-09-25T23:50:19.393659Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-25T23:50:22.087418Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\2.cookie")}
+2024-09-25T23:50:22.087457Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-25T23:50:22.287956Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\7.cookie"), AnchoredSystemPathBuf(".turbo\\cookies"), AnchoredSystemPathBuf("apps\\nearby-stores"), AnchoredSystemPathBuf("apps\\nearby-stores\\.turbo"), AnchoredSystemPathBuf(".turbo\\cookies\\4.cookie"), AnchoredSystemPathBuf(".turbo\\cookies\\8.cookie"), AnchoredSystemPathBuf(".turbo\\cookies\\6.cookie"), AnchoredSystemPathBuf(".turbo\\cookies\\5.cookie"), AnchoredSystemPathBuf("apps\\fleamarket\\.turbo"), AnchoredSystemPathBuf(".turbo\\cookies\\9.cookie"), AnchoredSystemPathBuf("apps\\fleamarket"), AnchoredSystemPathBuf(".turbo\\cookies\\3.cookie")}
+2024-09-25T23:50:22.287983Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("@mf-toy/nearby-stores"), path: AnchoredSystemPathBuf("apps\\nearby-stores") }, WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps\\fleamarket") }}))
+2024-09-25T23:50:22.440002Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\fleamarket\\.turbo"), AnchoredSystemPathBuf("apps\\nearby-stores\\.turbo")}
+2024-09-25T23:50:22.440017Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps\\fleamarket") }, WorkspacePackage { name: Other("@mf-toy/nearby-stores"), path: AnchoredSystemPathBuf("apps\\nearby-stores") }}))
+2024-09-25T23:50:22.440045Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-25T23:50:22.440063Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-25T23:50:27.289879Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("_tmp_17220_a9addccb9f5ae3e7e89e2a1ef371b4a4"), AnchoredSystemPathBuf("")}
+2024-09-25T23:50:27.289892Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-25T23:50:29.692281Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\fleamarket"), AnchoredSystemPathBuf("apps\\nearby-stores")}
+2024-09-25T23:50:29.692295Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/fleamarket"), path: AnchoredSystemPathBuf("apps\\fleamarket") }, WorkspacePackage { name: Other("@mf-toy/nearby-stores"), path: AnchoredSystemPathBuf("apps\\nearby-stores") }}))
+2024-09-25T23:50:30.608361Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-25T23:50:30.608386Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-25T23:50:33.092499Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\10.cookie")}
+2024-09-25T23:50:33.092511Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-25T23:50:35.490382Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2024-09-25T23:50:35.490394Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-25T23:51:47.098302Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\shell\\src\\components\\header.tsx")}
+2024-09-25T23:51:47.098320Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/shell"), path: AnchoredSystemPathBuf("apps\\shell") }}))
+2024-09-25T23:52:44.292037Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\shell\\src\\components\\header.tsx")}
+2024-09-25T23:52:44.292049Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/shell"), path: AnchoredSystemPathBuf("apps\\shell") }}))
+2024-09-25T23:52:49.897038Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\shell\\src\\components\\header.tsx")}
+2024-09-25T23:52:49.897065Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/shell"), path: AnchoredSystemPathBuf("apps\\shell") }}))
+2024-09-25T23:52:54.291142Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\shell\\src\\components\\header.tsx")}
+2024-09-25T23:52:54.291159Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/shell"), path: AnchoredSystemPathBuf("apps\\shell") }}))
+2024-09-25T23:55:03.888709Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\nearby-stores\\src\\routes.tsx")}
+2024-09-25T23:55:03.888739Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/nearby-stores"), path: AnchoredSystemPathBuf("apps\\nearby-stores") }}))
+2024-09-25T23:55:37.096056Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\nearby-stores\\src"), AnchoredSystemPathBuf("apps\\nearby-stores\\src\\pages")}
+2024-09-25T23:55:37.096106Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/nearby-stores"), path: AnchoredSystemPathBuf("apps\\nearby-stores") }}))
+2024-09-25T23:55:37.096183Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-25T23:55:47.890400Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\nearby-stores\\src\\pages"), AnchoredSystemPathBuf("apps\\nearby-stores\\src\\pages\\list")}
+2024-09-25T23:55:47.890411Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/nearby-stores"), path: AnchoredSystemPathBuf("apps\\nearby-stores") }}))
+2024-09-25T23:55:47.954422Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-25T23:55:51.796112Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\nearby-stores\\src\\pages\\list"), AnchoredSystemPathBuf("apps\\nearby-stores\\src\\pages\\list\\index.tsx")}
+2024-09-25T23:55:51.796125Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/nearby-stores"), path: AnchoredSystemPathBuf("apps\\nearby-stores") }}))
+2024-09-25T23:56:16.487978Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\nearby-stores\\src\\pages\\list\\index.tsx")}
+2024-09-25T23:56:16.487991Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/nearby-stores"), path: AnchoredSystemPathBuf("apps\\nearby-stores") }}))
+2024-09-25T23:56:20.491422Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\nearby-stores\\src\\pages\\list\\index.tsx")}
+2024-09-25T23:56:20.491444Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/nearby-stores"), path: AnchoredSystemPathBuf("apps\\nearby-stores") }}))
+2024-09-25T23:57:16.484367Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\nearby-stores\\src\\routes.tsx")}
+2024-09-25T23:57:16.484385Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/nearby-stores"), path: AnchoredSystemPathBuf("apps\\nearby-stores") }}))
+2024-09-25T23:57:35.984776Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\nearby-stores\\src\\index.html")}
+2024-09-25T23:57:35.984816Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/nearby-stores"), path: AnchoredSystemPathBuf("apps\\nearby-stores") }}))
+2024-09-25T23:57:36.073021Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-25T23:57:36.093535Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\nearby-stores\\src\\index.html")}
+2024-09-25T23:57:36.093550Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/nearby-stores"), path: AnchoredSystemPathBuf("apps\\nearby-stores") }}))
+2024-09-25T23:57:36.093577Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-25T23:57:47.391252Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\shell\\src\\components\\app-nearby-stores.tsx")}
+2024-09-25T23:57:47.391303Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/shell"), path: AnchoredSystemPathBuf("apps\\shell") }}))
+2024-09-25T23:57:47.438301Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-25T23:58:03.097005Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\nearby-stores\\webpack.config.js")}
+2024-09-25T23:58:03.097017Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/nearby-stores"), path: AnchoredSystemPathBuf("apps\\nearby-stores") }}))
+2024-09-25T23:58:20.989350Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\1.cookie"), AnchoredSystemPathBuf(".turbo\\cookies")}
+2024-09-25T23:58:20.989375Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-25T23:58:24.096353Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo")}
+2024-09-25T23:58:24.096367Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-25T23:59:35.987872Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\nearby-stores\\webpack.config.js")}
+2024-09-25T23:59:35.987887Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/nearby-stores"), path: AnchoredSystemPathBuf("apps\\nearby-stores") }}))
+2024-09-25T23:59:47.190942Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\shell\\src\\components\\app-nearby-stores.tsx")}
+2024-09-25T23:59:47.190954Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mf-toy/shell"), path: AnchoredSystemPathBuf("apps\\shell") }}))
