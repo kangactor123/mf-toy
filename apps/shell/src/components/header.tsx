@@ -63,6 +63,10 @@ const Link = styled(NavLink)<{ isClicked: boolean }>`
   min-width: 80px;
   text-decoration: none;
   color: ${(props) => (props.isClicked ? "orange" : "#4d5159")};
+
+  &:active {
+    background-color: #fff;
+  }
 `;
 
 const Container = styled.header`

@@ -21,7 +21,7 @@ const AppNearbyStores = () => {
 
     importRemote<{ default: InjectFuncType }>({
       url: "http://localhost:3002",
-      scope: "nearby-stores",
+      scope: "nearby_stores",
       module: "injector",
       remoteEntryFileName: "remoteEntry.js",
     })
