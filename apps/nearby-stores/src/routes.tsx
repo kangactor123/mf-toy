@@ -17,6 +17,12 @@ export const routes: RouteObject[] = [
       </Suspense>
     ),
     errorElement: <div>error</div>,
-    children: [{ index: true, element: <NearbyStoresList /> }],
+    children: [
+      { index: true, element: <NearbyStoresList /> },
+      {
+        path: ":id",
+        element: <div>id</div>,
+      },
+    ],
   },
 ];
