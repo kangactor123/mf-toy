@@ -76,6 +76,7 @@ module.exports = (_, argv) => ({
       remotes: {},
       exposes: {
         "./injector": "./src/injector.tsx",
+        "./fragment-recommend-products": "./src/fragments/product-fragment.tsx",
       },
       shared: {
         ...deps,
