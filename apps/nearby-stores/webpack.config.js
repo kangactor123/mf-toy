@@ -90,6 +90,9 @@ module.exports = (_, argv) => ({
         "@mf-toy/shell-router": {
           singleton: true,
         },
+        "@mf-toy/ui-kit": {
+          singleton: true,
+        },
       },
     }),
     new HtmlWebPackPlugin({

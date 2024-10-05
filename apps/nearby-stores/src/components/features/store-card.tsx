@@ -1,5 +1,6 @@
 import React from "react";
-import { CardContainer, CardInfo, Title } from "./store-card.style";
+import { CardContainer, CardInfo } from "./store-card.style";
+import { Title } from "@mf-toy/ui-kit";
 
 type StoreCardProps = {
   id: string;
@@ -28,7 +29,7 @@ const StoreCard = (props: StoreCardProps) => {
       <img src={thumbnailUrl} alt={thumbnailAlt} />
       <CardInfo>
         <div className="title-row">
-          <Title>{name}</Title>
+          <Title element="h4">{name}</Title>
           <span className="address">{address}</span>
         </div>
         <p className="description">{description}</p>

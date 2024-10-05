@@ -1,6 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import { Wrapper } from "./product-card.style";
+import { Title } from "@mf-toy/ui-kit";
 
 type Props = {
   id: string;
@@ -26,7 +27,9 @@ const ProductCard: React.FC<Props> = (props) => {
         <img src={imageUrl} />
       </div>
       <div className="fleamarket-product-info">
-        <h2 className="card-title">{title}</h2>
+        <Title element="h4" className="card-title">
+          {title}
+        </Title>
         <div className="card-price">{price.toLocaleString()}</div>
         <div className="card-address">{address}</div>
         <div className="card-counts">

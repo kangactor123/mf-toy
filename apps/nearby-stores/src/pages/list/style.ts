@@ -16,9 +16,3 @@ export const StoreList = styled.ul`
 export const Container = styled.div`
   display: flex;
 `;
-
-export const Title = styled.h2`
-  font-size: 32px;
-  font-weight: 700;
-  text-align: center;
-`;

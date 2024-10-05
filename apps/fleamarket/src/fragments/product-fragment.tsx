@@ -2,6 +2,7 @@ import React, { useCallback, useMemo } from "react";
 import { MOCK_DATA } from "../mocks/products";
 import { useShellNavigate } from "@mf-toy/shell-router";
 import { Container, ProductItem } from "./product-fragment.style";
+import { Title } from "@mf-toy/ui-kit";
 
 const ProductFragment = () => {
   const navigate = useShellNavigate();
@@ -17,12 +18,14 @@ const ProductFragment = () => {
   );
   return (
     <Container>
-      <h2 className="title">추천 상품목록</h2>
+      <Title element="h4">추천 상품목록</Title>
       <div className="list">
         {_MOCK.map((product) => {
           return (
             <ProductItem onClick={() => handleClickProduct(product.id)}>
-              <h3 className="item-title">{product.title}</h3>
+              <Title element="h5" className="item-title">
+                {product.title}
+              </Title>
               <div className="item-description">
                 {product.price.toLocaleString()}원
               </div>

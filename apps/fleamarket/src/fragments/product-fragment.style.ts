@@ -33,14 +33,6 @@ export const Container = styled.div`
   border-bottom: 1px solid rgb(0 0 0 / 0.1);
   gap: 10px;
 
-  & .title {
-    font-size: 15px;
-    font-weight: bold;
-    height: 15px;
-    margin: 0;
-    padding: 0 12px;
-  }
-
   & .list {
     display: flex;
     flex-direction: column;
