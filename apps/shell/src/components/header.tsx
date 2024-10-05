@@ -7,6 +7,7 @@ import {
 } from "../constants/prefix";
 
 import logo from "../assets/images/logo.png";
+import { Button } from "@mf-toy/ui-kit";
 
 const Header = () => {
   const location = useLocation();
@@ -25,6 +26,7 @@ const Header = () => {
           <img src={logo} onClick={handleClickLogo} />
         </LogoWrapper>
         <Nav>
+          <Button onClick={() => console.log("login")}>로그인</Button>
           <ul className="global-nav-items">
             <li>
               <Link
@@ -100,6 +102,9 @@ const LogoWrapper = styled.div`
 `;
 
 const Nav = styled.nav`
+  display: flex;
+  align-items: center;
+  gap: 8px;
   & .global-nav-items {
     display: flex;
     gap: 8px;
@@ -108,6 +113,7 @@ const Nav = styled.nav`
     list-style-type: none;
     opacity: 1;
     margin: 0;
+    padding: 0;
   }
 `;
 

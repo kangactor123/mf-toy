@@ -5,7 +5,9 @@ export const ProductItem = styled.div`
   flex-direction: column;
   align-items: flex-start;
   padding: 16px 12px 16px;
+  gap: 4px;
   .item-title {
+    margin: 0%;
     font-size: 16px;
     font-weight: 600;
     color: rgb(0 0 0 / 0.9);
@@ -35,6 +37,8 @@ export const Container = styled.div`
     font-size: 15px;
     font-weight: bold;
     height: 15px;
+    margin: 0;
+    padding: 0 12px;
   }
 
   & .list {
